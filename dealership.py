@@ -18,3 +18,14 @@ class Dealership():
         self.inventory.remove(i)
 
         employee_who_sold.increment_cars_sold()
+
+        #== Still need to increase revenue, and increase staff revenue ===#
+        print("incomplete")
+
+    def add_car(self, modelN, used):
+        #== am I suppose to create a new car object here? ==#
+        print("incomplete")
+
+    
+        
+
